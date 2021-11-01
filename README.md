@@ -29,13 +29,28 @@ We also can see a listing of the first 10 observations where we can see a signif
 4. As a result og analyzing frequency distributions of suicide rates per gender and generation, this study found out that globally between 1985 and 2016, there was a clear disparity in suicide rate between genders, being the male suicide rate at least 4 times the female rate (Figure 4).
 5. The generation with a higher suicide rate worldwide was the G.I. generation (the greatest generation), which is the generation that had more than 75 years in 1984 (FIGURE 4. This generation of people fought in World War II, which helps explain one of the reasons for suicide. Trauma caused by War is associated with PTSD, which could cause suicide according to the U.S. Department of Veteran Affairs and other mental health institutions.
 6. Visualizing the top three countries which have the highest AVG number of suicides per 100k population in the past 30 years, the result was Russia, Lithuania & Hungary. This means Europe and Northern Asia are the continents most affected by suicide from 1885 to 2016.
+
+![image](https://user-images.githubusercontent.com/8260464/139698641-a7d1f841-3c44-45ab-b9f4-3617bf106e8b.png)
+
 7. Upon analyzing suicide rates, Lithuania came as most affected. Although, we can see here that suicide rates are reducing, Lithuania is still struggling and has been on the top in the 30 years registered in the data set. Russian Federation was the second most affected, followed by Hungary. The intensity of the color red shows the intensity of the suicide problem (Figure 6).
 8. When analyzing the magnitude of the problem (Figure 7), Lithuania has the most dramatic suicide rate by 100k of population. Even though, Russia has the highest number of suicides (due to its large territory and population), Lithuania has the highest rate / 100K of population because of the small size of its nation. 
+
+![image](https://user-images.githubusercontent.com/8260464/139698571-dcd0070f-4309-463d-ae32-074f8e1aa70a.png)
+
 9. GDP has an association with suicide rates in Lithuania. The AVG suicide rates for each of the top countries versus their AVG gdp_for_year from years 2010 to 2016 shows a consistent inverse association (Figure 8). This finding will also allow the mental health company to understand how chronic the suicide problem would be depending on the economic outlook of the country in the next years.
+
+![image](https://user-images.githubusercontent.com/8260464/139698471-961e50f2-c06f-428b-952e-f88144bfedbd.png)
+
 10. The boomer generation, which belongs to the age group of 35-54 years by the year 1985, is the most affected age group by suicide (110). The Greatest and Silent generations follow with a quite similar rate (106)(Figure 9).
 11. In all generations, the majority of suicides are made by male individuals, being 86% of the total suicides for this generation (Figure 9).
 
+![image](https://user-images.githubusercontent.com/8260464/139698411-2d2a8d16-48a0-47c7-bc00-93e9373a0edb.png)
+
+
 ### Recommendations
 
-1. As a result of the analysis, we recommend that our mental health not-for-profit mental health company focus on preventing suicide in Lithuania, specifically in the boomer population of males (35-54 y-o).
-2. In our suicide prevention work, gdp_per_capita should be considered as a major factor associated with suicide.
+1. This analytics study recommends that the mental health not-for-profit focuses on preventing suicide in Lithuania, specifically in the boomer population of males (35-54 y-o). 
+2. In the suicide prevention work, gdp_per_capita should be considered as a major factor associated with suicide.
+
+![image](https://user-images.githubusercontent.com/8260464/139698762-284718e5-1994-4656-930b-64b1841f82b6.png)
+
